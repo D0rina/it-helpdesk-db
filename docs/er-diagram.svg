@@ -1,0 +1,245 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2200 1680" width="2200" height="1680" font-family="Arial, Helvetica, sans-serif">
+<rect width="2200" height="1680" fill="#ffffff"/>
+<g id="title">
+<text x="40" y="60" font-size="30" font-weight="bold" fill="#111827">IT Inventory &amp; Helpdesk — ER diagram (Chen notation)</text>
+<text x="40" y="92" font-size="16" fill="#4B5563">Conceptual model. Foreign keys are shown as relationships; see relational-model.md for the full relational schema.</text>
+</g>
+<g stroke="#374151" stroke-width="1.6" fill="none">
+<line x1="300" y1="260" x2="195.31236640336047" y2="197.6496018604057" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="300" y1="260" x2="389.38206562312234" y2="197.64960186040565" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="1100" y1="260" x2="938.296557509256" y2="223.34023167633913" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="1100" y1="260" x2="1026.4325816193887" y2="174.60913002683068" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="1100" y1="260" x2="1153.45" y2="186.38784067832273" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="1100" y1="260" x2="1237.834113616877" y2="216.56344179764008" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="1880" y1="260" x2="1782.114841058257" y2="197.6496018604057" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="1880" y1="260" x2="1876.3467206851822" y2="175.05177970337687" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="1880" y1="260" x2="2000.2684663837797" y2="195.9314075001204" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="1880" y1="260" x2="2022.5519027821288" y2="268.4405333230392" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="520" y1="780" x2="418.7136037308087" y2="717.6496018604057" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="520" y1="780" x2="360.3897519584281" y2="771.1409278344961" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="520" y1="780" x2="356.7969892635922" y2="818.3135924585629" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="520" y1="780" x2="428.3960199894723" y2="865.4616549299003" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="520" y1="780" x2="321.3701749182419" y2="885.4539335824078" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="520" y1="780" x2="497.8629620491763" y2="960.0084630616575" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="1500" y1="780" x2="1503.963186845536" y2="864.9482202966232" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="1500" y1="780" x2="1629.976670316279" y2="851.1220155273893" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="1500" y1="780" x2="1591.0826842868464" y2="717.6496018604057" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="1500" y1="780" x2="1598.33" y2="915.9659883941569" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="1500" y1="780" x2="1781.3228479333084" y2="849.7362510217008" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="1500" y1="780" x2="1731.991314219625" y2="709.885870618238" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="1500" y1="780" x2="1351.6933489441642" y2="850.4792621430163" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="1500" y1="780" x2="1397.44" y2="936.7505980849834" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="2010" y1="780" x2="1949.8899999999999" y2="706.3878406783227" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="2010" y1="780" x2="2089.616529101482" y2="716.7860882882312" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="1000" y1="1280" x2="902.114841058257" y2="1342.3503981395943" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="1000" y1="1280" x2="937.3567631238408" y2="1388.7540796021992" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="1000" y1="1280" x2="1080.442881496462" y2="1343.1673101655786" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="1000" y1="1280" x2="980.6036983560542" y2="1436.1399375728188" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="1000" y1="1280" x2="1143.7077021357768" y2="1263.160054783832" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="1000" y1="1280" x2="1212.3705322976152" y2="1346.009887661854" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="1000" y1="1280" x2="1132.482073581557" y2="1215.8797690277822" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="270" y1="1330" x2="191.04258844965472" y2="1393.1673101655786" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="270" y1="1330" x2="302.3478989711695" y2="1410.839803885088" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="270" y1="1330" x2="400.5994068080896" y2="1394.1202309722178" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="1720" y1="1330" x2="1647.3519459115723" y2="1263.0190859434285" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="1720" y1="1330" x2="1809.1981352419928" y2="1266.7860882882312" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="1720" y1="1330" x2="1819.5857776054672" y2="1392.3503981395943" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="1720" y1="1330" x2="1745.6999302947056" y2="1443.252891596404" stroke="#9CA3AF" stroke-width="1.2"/>
+<line x1="300" y1="260" x2="410" y2="520"/>
+<line x1="520" y1="780" x2="410" y2="520"/>
+<line x1="1100" y1="260" x2="810" y2="520"/>
+<line x1="520" y1="780" x2="810" y2="520"/>
+<line x1="1100" y1="260" x2="1300" y2="520"/>
+<line x1="1500" y1="780" x2="1300" y2="520"/>
+<line x1="1880" y1="260" x2="1690" y2="520"/>
+<line x1="1500" y1="780" x2="1690" y2="520"/>
+<line x1="2010" y1="780" x2="1755" y2="780"/>
+<line x1="1500" y1="780" x2="1755" y2="780"/>
+<line x1="520" y1="780" x2="1010" y2="780"/>
+<line x1="1500" y1="780" x2="1010" y2="780"/>
+<line x1="1500" y1="780" x2="1250" y2="1030"/>
+<line x1="1000" y1="1280" x2="1250" y2="1030"/>
+<line x1="520" y1="780" x2="640" y2="1050"/>
+<line x1="1000" y1="1280" x2="640" y2="1050"/>
+<line x1="520" y1="780" x2="860" y2="960"/>
+<line x1="1000" y1="1280" x2="860" y2="960"/>
+<line x1="520" y1="780" x2="395" y2="1060"/>
+<line x1="270" y1="1330" x2="395" y2="1060"/>
+<line x1="1000" y1="1280" x2="640" y2="1305"/>
+<line x1="270" y1="1330" x2="640" y2="1305"/>
+<line x1="1000" y1="1280" x2="1360" y2="1305"/>
+<line x1="1720" y1="1330" x2="1360" y2="1305"/>
+</g>
+<g font-size="18" font-weight="bold" fill="#B91C1C" text-anchor="middle">
+<text x="342.1" y="401.5">1</text>
+<text x="477.9" y="650.5">N</text>
+<text x="945.7" y="385.6">1</text>
+<text x="674.3" y="666.4">N</text>
+<text x="1188.9" y="404.5">1</text>
+<text x="1411.1" y="647.5">N</text>
+<text x="1773.7" y="387.7">1</text>
+<text x="1606.3" y="664.3">N</text>
+<text x="1882.5" y="772.0">1</text>
+<text x="1627.5" y="800.0">N</text>
+<text x="765.0" y="800.0">1</text>
+<text x="1255.0" y="772.0">N</text>
+<text x="1365.1" y="901.1">1</text>
+<text x="1134.9" y="1170.9">N</text>
+<text x="567.2" y="926.7">1</text>
+<text x="827.5" y="1159.2">N</text>
+<text x="683.4" y="888.4">1</text>
+<text x="942.8" y="1120.4">N</text>
+<text x="444.7" y="920.3">1</text>
+<text x="345.2" y="1206.9">N</text>
+<text x="819.0" y="1284.5">1</text>
+<text x="455.9" y="1337.5">N</text>
+<text x="1179.0" y="1312.5">1</text>
+<text x="1541.0" y="1309.5">N</text>
+</g>
+<g font-size="13" text-anchor="middle">
+<ellipse cx="195.31236640336047" cy="197.6496018604057" rx="66.1" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="195.31236640336047" y="202.1496018604057" fill="#111827" font-weight="bold">department_id</text>
+<line x1="149.8" y1="205.1496018604057" x2="240.8" y2="205.1496018604057" stroke="#111827" stroke-width="1.2"/>
+<ellipse cx="389.38206562312234" cy="197.64960186040565" rx="32.8" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="389.38206562312234" y="202.14960186040565" fill="#111827">name</text>
+<ellipse cx="938.296557509256" cy="223.34023167633913" rx="58.7" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="938.296557509256" y="227.84023167633913" fill="#111827" font-weight="bold">location_id</text>
+<line x1="899.8" y1="230.84023167633913" x2="976.8" y2="230.84023167633913" stroke="#111827" stroke-width="1.2"/>
+<ellipse cx="1026.4325816193887" cy="174.60913002683068" rx="47.6" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="1026.4325816193887" y="179.10913002683068" fill="#111827">building</text>
+<ellipse cx="1153.45" cy="186.38784067832273" rx="36.5" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="1153.45" y="190.88784067832273" fill="#111827">floor</text>
+<ellipse cx="1237.834113616877" cy="216.56344179764008" rx="32.8" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="1237.834113616877" y="221.06344179764008" fill="#111827">room</text>
+<ellipse cx="1782.114841058257" cy="197.6496018604057" rx="51.3" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="1782.114841058257" y="202.1496018604057" fill="#111827" font-weight="bold">vendor_id</text>
+<line x1="1750.6" y1="205.1496018604057" x2="1813.6" y2="205.1496018604057" stroke="#111827" stroke-width="1.2"/>
+<ellipse cx="1876.3467206851822" cy="175.05177970337687" rx="32.8" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="1876.3467206851822" y="179.55177970337687" fill="#111827">name</text>
+<ellipse cx="2000.2684663837797" cy="195.9314075001204" rx="66.1" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="2000.2684663837797" y="200.4314075001204" fill="#111827">contact_email</text>
+<ellipse cx="2022.5519027821288" cy="268.4405333230392" rx="36.5" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="2022.5519027821288" y="272.9405333230392" fill="#111827">phone</text>
+<ellipse cx="418.7136037308087" cy="717.6496018604057" rx="58.7" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="418.7136037308087" y="722.1496018604057" fill="#111827" font-weight="bold">employee_id</text>
+<line x1="380.2" y1="725.1496018604057" x2="457.2" y2="725.1496018604057" stroke="#111827" stroke-width="1.2"/>
+<ellipse cx="360.3897519584281" cy="771.1409278344961" rx="55.0" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="360.3897519584281" y="775.6409278344961" fill="#111827">first_name</text>
+<ellipse cx="356.7969892635922" cy="818.3135924585629" rx="51.3" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="356.7969892635922" y="822.8135924585629" fill="#111827">last_name</text>
+<ellipse cx="428.3960199894723" cy="865.4616549299003" rx="36.5" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="428.3960199894723" y="869.9616549299003" fill="#111827">email</text>
+<ellipse cx="321.3701749182419" cy="885.4539335824078" rx="58.7" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="321.3701749182419" y="889.9539335824078" fill="#111827">is_it_staff</text>
+<ellipse cx="497.8629620491763" cy="960.0084630616575" rx="51.3" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="497.8629620491763" y="964.5084630616575" fill="#111827">is_active</text>
+<ellipse cx="1503.963186845536" cy="864.9482202966232" rx="47.6" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="1503.963186845536" y="869.4482202966232" fill="#111827" font-weight="bold">asset_id</text>
+<line x1="1476.0" y1="872.4482202966232" x2="1532.0" y2="872.4482202966232" stroke="#111827" stroke-width="1.2"/>
+<ellipse cx="1629.976670316279" cy="851.1220155273893" rx="66.1" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="1629.976670316279" y="855.6220155273893" fill="#111827">inventory_tag</text>
+<ellipse cx="1591.0826842868464" cy="717.6496018604057" rx="36.5" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="1591.0826842868464" y="722.1496018604057" fill="#111827">model</text>
+<ellipse cx="1598.33" cy="915.9659883941569" rx="66.1" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="1598.33" y="920.4659883941569" fill="#111827">serial_number</text>
+<ellipse cx="1781.3228479333084" cy="849.7362510217008" rx="66.1" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="1781.3228479333084" y="854.2362510217008" fill="#111827">purchase_date</text>
+<ellipse cx="1731.991314219625" cy="709.885870618238" rx="69.8" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="1731.991314219625" y="714.385870618238" fill="#111827">purchase_price</text>
+<ellipse cx="1351.6933489441642" cy="850.4792621430163" rx="69.8" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="1351.6933489441642" y="854.9792621430163" fill="#111827">warranty_until</text>
+<ellipse cx="1397.44" cy="936.7505980849834" rx="40.2" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="1397.44" y="941.2505980849834" fill="#111827">status</text>
+<ellipse cx="1949.8899999999999" cy="706.3878406783227" rx="58.7" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="1949.8899999999999" y="710.8878406783227" fill="#111827" font-weight="bold">category_id</text>
+<line x1="1911.4" y1="713.8878406783227" x2="1988.4" y2="713.8878406783227" stroke="#111827" stroke-width="1.2"/>
+<ellipse cx="2089.616529101482" cy="716.7860882882312" rx="32.8" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="2089.616529101482" y="721.2860882882312" fill="#111827">name</text>
+<ellipse cx="902.114841058257" cy="1342.3503981395943" rx="51.3" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="902.114841058257" y="1346.8503981395943" fill="#111827" font-weight="bold">ticket_id</text>
+<line x1="870.6" y1="1349.8503981395943" x2="933.6" y2="1349.8503981395943" stroke="#111827" stroke-width="1.2"/>
+<ellipse cx="937.3567631238408" cy="1388.7540796021992" rx="36.5" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="937.3567631238408" y="1393.2540796021992" fill="#111827">title</text>
+<ellipse cx="1080.442881496462" cy="1343.1673101655786" rx="58.7" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="1080.442881496462" y="1347.6673101655786" fill="#111827">description</text>
+<ellipse cx="980.6036983560542" cy="1436.1399375728188" rx="47.6" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="980.6036983560542" y="1440.6399375728188" fill="#111827">priority</text>
+<ellipse cx="1143.7077021357768" cy="1263.160054783832" rx="40.2" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="1143.7077021357768" y="1267.660054783832" fill="#111827">status</text>
+<ellipse cx="1212.3705322976152" cy="1346.009887661854" rx="55.0" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="1212.3705322976152" y="1350.509887661854" fill="#111827">created_at</text>
+<ellipse cx="1132.482073581557" cy="1215.8797690277822" rx="58.7" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="1132.482073581557" y="1220.3797690277822" fill="#111827">resolved_at</text>
+<ellipse cx="191.04258844965472" cy="1393.1673101655786" rx="55.0" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="191.04258844965472" y="1397.6673101655786" fill="#111827" font-weight="bold">comment_id</text>
+<line x1="156.0" y1="1400.6673101655786" x2="226.0" y2="1400.6673101655786" stroke="#111827" stroke-width="1.2"/>
+<ellipse cx="302.3478989711695" cy="1410.839803885088" rx="32.8" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="302.3478989711695" y="1415.339803885088" fill="#111827">body</text>
+<ellipse cx="400.5994068080896" cy="1394.1202309722178" rx="55.0" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="400.5994068080896" y="1398.6202309722178" fill="#111827">created_at</text>
+<ellipse cx="1647.3519459115723" cy="1263.0190859434285" rx="55.0" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="1647.3519459115723" y="1267.5190859434285" fill="#111827" font-weight="bold">history_id</text>
+<line x1="1612.4" y1="1270.5190859434285" x2="1682.4" y2="1270.5190859434285" stroke="#111827" stroke-width="1.2"/>
+<ellipse cx="1809.1981352419928" cy="1266.7860882882312" rx="55.0" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="1809.1981352419928" y="1271.2860882882312" fill="#111827">old_status</text>
+<ellipse cx="1819.5857776054672" cy="1392.3503981395943" rx="55.0" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="1819.5857776054672" y="1396.8503981395943" fill="#111827">new_status</text>
+<ellipse cx="1745.6999302947056" cy="1443.252891596404" rx="55.0" ry="19" fill="#ffffff" stroke="#6B7280" stroke-width="1.3"/>
+<text x="1745.6999302947056" y="1447.752891596404" fill="#111827">changed_at</text>
+</g>
+<g font-size="14" font-style="italic" text-anchor="middle">
+<polygon points="410,482.0 485.0,520 410,558.0 335.0,520" fill="#FEF3C7" stroke="#B45309" stroke-width="1.8"/>
+<text x="410" y="525" fill="#78350F">employs</text>
+<polygon points="810,482.0 885.0,520 810,558.0 735.0,520" fill="#FEF3C7" stroke="#B45309" stroke-width="1.8"/>
+<text x="810" y="525" fill="#78350F">works in</text>
+<polygon points="1300,482.0 1375.0,520 1300,558.0 1225.0,520" fill="#FEF3C7" stroke="#B45309" stroke-width="1.8"/>
+<text x="1300" y="525" fill="#78350F">located in</text>
+<polygon points="1690,482.0 1765.0,520 1690,558.0 1615.0,520" fill="#FEF3C7" stroke="#B45309" stroke-width="1.8"/>
+<text x="1690" y="525" fill="#78350F">supplies</text>
+<polygon points="1755,742.0 1830.0,780 1755,818.0 1680.0,780" fill="#FEF3C7" stroke="#B45309" stroke-width="1.8"/>
+<text x="1755" y="785" fill="#78350F">classifies</text>
+<polygon points="1010,742.0 1085.0,780 1010,818.0 935.0,780" fill="#FEF3C7" stroke="#B45309" stroke-width="1.8"/>
+<text x="1010" y="785" fill="#78350F">uses</text>
+<polygon points="1250,992.0 1325.0,1030 1250,1068.0 1175.0,1030" fill="#FEF3C7" stroke="#B45309" stroke-width="1.8"/>
+<text x="1250" y="1035" fill="#78350F">concerns</text>
+<polygon points="640,1012.0 715.0,1050 640,1088.0 565.0,1050" fill="#FEF3C7" stroke="#B45309" stroke-width="1.8"/>
+<text x="640" y="1055" fill="#78350F">reports</text>
+<polygon points="860,922.0 935.0,960 860,998.0 785.0,960" fill="#FEF3C7" stroke="#B45309" stroke-width="1.8"/>
+<text x="860" y="965" fill="#78350F">resolves</text>
+<polygon points="395,1022.0 470.0,1060 395,1098.0 320.0,1060" fill="#FEF3C7" stroke="#B45309" stroke-width="1.8"/>
+<text x="395" y="1065" fill="#78350F">writes</text>
+<polygon points="640,1267.0 715.0,1305 640,1343.0 565.0,1305" fill="#FEF3C7" stroke="#B45309" stroke-width="1.8"/>
+<text x="640" y="1310" fill="#78350F">has</text>
+<polygon points="1360,1267.0 1435.0,1305 1360,1343.0 1285.0,1305" fill="#FEF3C7" stroke="#B45309" stroke-width="1.8"/>
+<text x="1360" y="1310" fill="#78350F">logs</text>
+</g>
+<g font-size="16" font-weight="bold" text-anchor="middle">
+<rect x="215.0" y="233.0" width="170.0" height="54" fill="#DBEAFE" stroke="#1D4ED8" stroke-width="2"/>
+<text x="300" y="266" fill="#1E3A8A">DEPARTMENT</text>
+<rect x="1015.0" y="233.0" width="170.0" height="54" fill="#DBEAFE" stroke="#1D4ED8" stroke-width="2"/>
+<text x="1100" y="266" fill="#1E3A8A">LOCATION</text>
+<rect x="1795.0" y="233.0" width="170.0" height="54" fill="#DBEAFE" stroke="#1D4ED8" stroke-width="2"/>
+<text x="1880" y="266" fill="#1E3A8A">VENDOR</text>
+<rect x="435.0" y="753.0" width="170.0" height="54" fill="#DBEAFE" stroke="#1D4ED8" stroke-width="2"/>
+<text x="520" y="786" fill="#1E3A8A">EMPLOYEE</text>
+<rect x="1415.0" y="753.0" width="170.0" height="54" fill="#DBEAFE" stroke="#1D4ED8" stroke-width="2"/>
+<text x="1500" y="786" fill="#1E3A8A">ASSET</text>
+<rect x="1902.5" y="753.0" width="215.0" height="54" fill="#DBEAFE" stroke="#1D4ED8" stroke-width="2"/>
+<text x="2010" y="786" fill="#1E3A8A">ASSET_CATEGORY</text>
+<rect x="915.0" y="1253.0" width="170.0" height="54" fill="#DBEAFE" stroke="#1D4ED8" stroke-width="2"/>
+<text x="1000" y="1286" fill="#1E3A8A">TICKET</text>
+<rect x="162.5" y="1303.0" width="215.0" height="54" fill="#DBEAFE" stroke="#1D4ED8" stroke-width="2"/>
+<text x="270" y="1336" fill="#1E3A8A">TICKET_COMMENT</text>
+<rect x="1568.8" y="1303.0" width="302.5" height="54" fill="#DBEAFE" stroke="#1D4ED8" stroke-width="2"/>
+<text x="1720" y="1336" fill="#1E3A8A">TICKET_STATUS_HISTORY</text>
+</g>
+<g font-size="13" fill="#374151">
+<rect x="1590" y="1500" width="560" height="150" fill="#F9FAFB" stroke="#D1D5DB"/>
+<text x="1610" y="1525" font-weight="bold" font-size="14">Legend</text>
+<rect x="1610" y="1540" width="70" height="26" fill="#DBEAFE" stroke="#1D4ED8" stroke-width="1.6"/><text x="1692" y="1558">entity</text>
+<polygon points="1645,1578 1680,1596 1645,1614 1610,1596" fill="#FEF3C7" stroke="#B45309" stroke-width="1.6"/><text x="1692" y="1601">relationship</text>
+<ellipse cx="1645" cy="1632" rx="35" ry="13" fill="#fff" stroke="#6B7280"/><text x="1692" y="1637">attribute</text>
+<text x="1870" y="1558" font-weight="bold" text-decoration="underline">key_attr</text><text x="1940" y="1558">  primary key (underlined)</text>
+<text x="1870" y="1601" font-weight="bold" fill="#B91C1C" font-size="16">1  N</text><text x="1920" y="1601">cardinality (one-to-many)</text>
+</g>
+</svg>
