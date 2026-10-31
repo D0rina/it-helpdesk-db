@@ -83,22 +83,23 @@ INSERT INTO asset_category (name) VALUES
 INSERT INTO asset (inventory_tag, category_id, vendor_id, model, serial_number,
                    purchase_date, purchase_price, warranty_until, status, location_id, assigned_to)
 SELECT
-    'INV-' || to_char(p.purchase_date, 'YYYY') || '-' || lpad(e.employee_id::text, 4, '0'),
+    'INV-' || to_char(e.purchase_date, 'YYYY') || '-' || lpad(e.employee_id::text, 4, '0'),
     CASE WHEN e.department_id IN (1, 3, 5) THEN 1 ELSE 2 END,
     CASE WHEN e.department_id IN (1, 3, 5) THEN 1 ELSE 2 END,
     CASE WHEN e.department_id IN (1, 3, 5) THEN 'Lenovo ThinkPad T14' ELSE 'Dell OptiPlex 7010' END,
     'SN' || upper(substr(md5(e.email), 1, 10)),
-    p.purchase_date,
+    e.purchase_date,
     CASE WHEN e.department_id IN (1, 3, 5) THEN 1149.00 ELSE 789.00 END,
-    p.purchase_date + INTERVAL '3 years',
+    e.purchase_date + INTERVAL '3 years',
     'in_use',
     e.location_id,
     e.employee_id
-FROM employee e
-CROSS JOIN LATERAL (
-    SELECT DATE '2022-03-01' + (floor(random() * 1200))::int AS purchase_date
-) p
-WHERE e.is_active;
+FROM (
+    -- random purchase date between March 2022 and mid-2025, one per employee
+    SELECT emp.*, DATE '2022-03-01' + floor(random() * 1200)::int AS purchase_date
+    FROM employee emp
+    WHERE emp.is_active
+) e;
 
 INSERT INTO asset (inventory_tag, category_id, vendor_id, model, serial_number,
                    purchase_date, purchase_price, warranty_until, status, location_id, assigned_to)
